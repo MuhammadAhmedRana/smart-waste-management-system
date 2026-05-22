@@ -11,4 +11,9 @@ This project focuses on improving waste collection efficiency using technology c
 - Waste monitoring
 - Data handling
 - Smart collection optimization
+  
+## Future Improvements
 
+- AI-based waste prediction
+- Automated waste collection optimization
+- Real-time monitoring system
